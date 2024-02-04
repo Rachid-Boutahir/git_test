@@ -8,7 +8,7 @@
 
 1. **Clone the Project:**
     ```bash 
-    git clone https://github.com/ayoub-ait-si-ahmad/labxpert-version2.git.
+    git clone.
 2. **Configure the Database:**
 
     2.1-Create a PostgreSQL database.
