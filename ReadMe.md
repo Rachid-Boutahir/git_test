@@ -1,22 +1,22 @@
-# I-README - Git Project
+# README - Git Project
 
-## II-Introduction :
+## I-Introduction :
 
-## III-UML Class Diagram :
+## II-UML Class Diagram :
 
-## IV-Installation Steps :
+## III-Installation Steps :
 
 1. **Clone the Project:**
     ```bash 
     git clone https://github.com/ayoub-ait-si-ahmad/labxpert-version2.git.
 2. **Configure the Database:**
 
-    2.1-Create a PostgreSQL database. 
-
+    2.1-Create a PostgreSQL database.
+    
     2.2-Update the connection information in the application.properties file.
 
 3. **Compilation and Execution:**
 
     mvn clean
-    
+
     mvn install
